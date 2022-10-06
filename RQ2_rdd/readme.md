@@ -1,0 +1,1 @@
+The metrics used for RDD analysis (*e.g.,* `forks` and `stars` ) were computed based on the raw data collected from GitHub repositories. As the raw data has a large size, we do not provide direct download link. Instead, you can get them via [GitHub API](https://docs.github.com/en/rest).
